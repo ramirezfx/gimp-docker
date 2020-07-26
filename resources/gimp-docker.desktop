@@ -3,4 +3,4 @@ Type=Application
 Terminal=true
 Name=Gimp-Docker
 Icon=/usr/share/icons/docker/gimp.png
-Exec=/usr/local/bin/startgimp.sh
+Exec=sh /usr/local/bin/startgimp.sh
